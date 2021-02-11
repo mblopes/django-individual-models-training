@@ -8,6 +8,7 @@ authors = ["Matheus B. Lopes <matheus.bachiste@olist.com>"]
 python = "^3.9"
 Django = "^3.1.6"
 djangorestframework = "^3.12.2"
+pycodestyle = "^2.6.0"
 
 [tool.poetry.dev-dependencies]
 
